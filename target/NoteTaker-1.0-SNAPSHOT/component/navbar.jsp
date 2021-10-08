@@ -18,10 +18,7 @@
             <a class="nav-link yeslink" href="show_all_notes.jsp"><span><i class="fa fa-newspaper-o	"></i></span>Show Notes</a>
         </li>
       </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button type="submit" class="btn btn-outline-light">submit</button>
-      </form>
+      
     </div>
   </div>
 </nav>
