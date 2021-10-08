@@ -1,0 +1,5 @@
+com\servlets\deleteServlet.class
+com\servlets\UpdateServlet.class
+com\servlets\saveNoteServlet.class
+com\entity\Note.class
+com\helper\FactoryProvider.class
